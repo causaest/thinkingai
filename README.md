@@ -2,13 +2,13 @@
 
 This is a collection of resources covering the following topics:
 
-- Mind tools under risk of going extinct
-- Cognitive atrophy due to the use of AI
+- Cognitive skills under risk of going extinct due to the use of AI
 - Biases and paradoxes related to decision-making
+- A plan for retaining and sharpening thinking without giving up AI
 
-## Cognitive atrophy
+## References
 
-A list of papers on the topic:
+A short list of papers on the topic:
 
 - Generative AI: Here to stay, but for good?
 

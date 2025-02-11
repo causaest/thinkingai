@@ -17,3 +17,7 @@ Sætra, Henrik Skaug. "Generative AI: Here to stay, but for good?." Technology i
 - AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
 
 Gerlich, Michael. "AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking." Societies 15, no. 1 (2025): 6.
+
+- Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development
+
+Kulveit, Jan, Raymond Douglas, Nora Ammann, Deger Turan, David Krueger, and David Duvenaud. "Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development." arXiv preprint arXiv:2501.16946 (2025), https://arxiv.org/abs/2501.16946.

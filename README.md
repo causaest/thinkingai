@@ -21,3 +21,10 @@ Gerlich, Michael. "AI Tools in Society: Impacts on Cognitive Offloading and the 
 - Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development
 
 Kulveit, Jan, Raymond Douglas, Nora Ammann, Deger Turan, David Krueger, and David Duvenaud. "Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development." arXiv preprint arXiv:2501.16946 (2025), https://arxiv.org/abs/2501.16946.
+
+- The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers
+
+Lee, Hao-Ping (hank), Advait Sarkar, Lev Tankelevitch, Ian Drosos, Sean Rintel, Richard Banks, and Nicholas Wilson. "The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers". In Proceedings of the ACM CHI Conference on Human Factors in Computing Systems. ACM, 2025. 
+
+https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/
+

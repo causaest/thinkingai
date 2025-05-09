@@ -28,3 +28,6 @@ Lee, Hao-Ping (hank), Advait Sarkar, Lev Tankelevitch, Ian Drosos, Sean Rintel, 
 
 https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/
 
+- ChatGPT is bullshit
+
+Hicks, Michael Townsen, James Humphries, and Joe Slater. "ChatGPT is bullshit." Ethics and Information Technology 26, no. 2 (2024): 1-10.

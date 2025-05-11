@@ -31,3 +31,7 @@ https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai
 - ChatGPT is bullshit
 
 Hicks, Michael Townsen, James Humphries, and Joe Slater. "ChatGPT is bullshit." Ethics and Information Technology 26, no. 2 (2024): 1-10.
+
+- The effect of ChatGPT on students’ learning performance, learning perception, and higher-order thinking: insights from a meta-analysis
+
+Wang, Jin, Fan, Wenxiang. The effect of ChatGPT on students' learning performance, learning perception, and higher-order thinking: insights from a meta-analysis. Humanities and Social Sciences Communications volume 12, 621 (2025). https://doi.org/10.1057/s41599-025-04787-y
